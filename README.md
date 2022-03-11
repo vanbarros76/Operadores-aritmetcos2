@@ -1,2 +1,2 @@
-# Operadores-aritmetcos2
+# Operadores-aritmeticos2
 Operadores Aritmeticos2-java-eclipse
